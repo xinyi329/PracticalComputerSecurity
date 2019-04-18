@@ -1,6 +1,6 @@
 # Practical Computer Security
 
-Lab 1 :- Buffer Overflow
+Lab 1 : [Buffer Overflow](Lab\ 1)
 
 Lab 2 :- ShellShock
 
